@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Extraordinarios hechos históricos que te dejarán patidifuso
 layout: home
 ---
 
