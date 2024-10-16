@@ -1,5 +1,5 @@
 ---
-title: Patata
+title: Home
 layout: Home
 ---
 
