@@ -4,7 +4,7 @@ layout: home
 ---
 #La espectacular, inimaginable, espasmodica, macanuda y exorbitante historia del cemento
 
-[]!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rubi.com%2Fes%2Fblog%2Fcemento-portland-que-es%2F&psig=AOvVaw27_MU00VkMkHQm_SIFz9Ie&ust=1729166970712000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCnhJbvkokDFQAAAAAdAAAAABAE)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rubi.com%2Fes%2Fblog%2Fcemento-portland-que-es%2F&psig=AOvVaw27_MU00VkMkHQm_SIFz9Ie&ust=1729166970712000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCnhJbvkokDFQAAAAAdAAAAABAE)
 
 El cemento representa uno de los materiales más utilizados en el ámbito de la construcción, en vista de que es altamente resistente y permite la aplicación de técnicas que le proporcionan acabados de primera calidad a escala estética, tal como los del hormigón pulido e impreso.
 
