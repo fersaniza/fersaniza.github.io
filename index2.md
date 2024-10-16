@@ -1,27 +1,27 @@
 ---
-title: gaggnjunreggr
+title: La apasionante historia del cemento
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+El cemento representa uno de los materiales más utilizados en el ámbito de la construcción, en vista de que es altamente resistente y permite la aplicación de técnicas que le proporcionan acabados de primera calidad a escala estética, tal como los del hormigón pulido e impreso.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Todos sabemos lo útil que resulta esta mezcla en la edificación de estructuras y elaboración de elementos prefabricados, pero ¿conoces la historia del cemento?
 
-More specifically, the created site:
+Saber a ciencia cierta quién fue el inventor del cemento resulta un poco complejo, debido a la poca información que existe acerca del uso de este tipo de mezcla hace miles de años atrás.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+El cemento tiene como antecedentes una serie de morteros y pastas que se usaron en la antigüedad y se componían de greda o arcilla, así como cal y yeso con los que se unían las piezas en las diferentes edificaciones que se levantaban.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+El cemento comenzó a ser usado en la Antigua Grecia, donde se creó el primer tipo de cemento natural compuesto por tobas volcánicas que se extrajeron de la isla conocida como Santorini. 
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Unos años después, cerca del siglo I a.C., en la Antigua Roma los romanos empezaron también a usar un cemento natural tan resistente que toleró la inmersión en agua de mar por miles de años, pues entre su composición tenía cenizas volcánicas que provenían de Pozzuoli, un poco cerca del Vesubio.
 
-To get started with creating a site, simply:
+En el año 6000 a.C. se usó una mezcla compuesta por arena, agua y áridos en la construcción de algunas estructuras, en vista de que al endurecer gana mucha resistencia, durabilidad y solidez, por lo que se le considera como el primer antecedente al hormigón que conocemos hoy en día.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Se llevó acabo posteriormente (siglo XVII) la edificación de un faro, en el acantilado de Eddystone, exactamente en costas de Cornulles. Para tal construcción se utilizó un mortero de cal calcinada.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Esto fue una obra de John Smeaton, quien logró este trabajo en un plazo de seis semanas.
+
+Por tanto, podría decirse entonces que el primer cemento fue inventado por los habitantes de la Antigua Grecia, pero no fue hasta el año 1824 cuando se inventó y patentó una mezcla de cemento parecida a la que se usa hoy en día, por lo que se le atañe este proyecto a él.
 
 ----
 
