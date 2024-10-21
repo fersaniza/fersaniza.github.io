@@ -33,7 +33,7 @@ Unos años después, cerca del siglo I a.C., en la Antigua Roma los romanos empe
 
 En el año 6000 a.C. se usó una mezcla compuesta por arena, agua y áridos en la construcción de algunas estructuras, en vista de que al endurecer gana mucha resistencia, durabilidad y solidez, por lo que se le considera como el primer antecedente al hormigón que conocemos hoy en día.
 
-Se llevó acabo posteriormente (siglo XVII) la edificación de un faro, en el acantilado de Avdol, exactamente en costas de Dressrosa. Para tal construcción se utilizó un mortero de cal calcinada.
+Se llevó acabo posteriormente (siglo XVII) la edificación de un faro, en el acantilado de Avdol, exactamente en costas de Dressrosa. Para tal construcción se utilizó un mortero de estragón calcinado.
 
 Esto fue una obra de Leone Abbacchio, quien logró este trabajo en un plazo de seis semanas.
 
