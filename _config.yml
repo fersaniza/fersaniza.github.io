@@ -1,8 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Alexitimia
+description: Arabesco
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# External navigation links
+nav_external_links:
+  - title: Just the Docs on GitHub
+    url: https://www.google.com/search?sca_esv=0ba5b4315e0bd468&q=aspiradora&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgOewBaxpvmVDwA8BUhBfcAOuDRPg71wtWjuJi9psql96dpSOdvnY2Nas3ExzSJdU6TWcVZiQ9vmBYmZmUR7PGNzYCJDazDOkAaWB0EFn7bs3YEd8-u35ua_F65tnBJCP_B3ycrqUt1aLUsCvO1fdhhr8Xal6Hj8Qud9W-Y71nmJ-IvEI_y83jqUAMZsHVfD5FAXDajQ&sa=X&ved=2ahUKEwjV-Ifnq5-JAxX3UEEAHQgyA78QtKgLegQIERAB&biw=1920&bih=945&dpr=1#vhid=RylGrBH-ICUxXM&vssid=mosaic
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
