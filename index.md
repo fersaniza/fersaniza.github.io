@@ -5,7 +5,7 @@ layout: home
 
 # Bienvenido al blog de Marshall D. Ace
 
-####
+#### Mi nombre es Marshal D. Ace y soy un gran historiador reconocido en todas las Islas Vaticanas y la gran Cordillera de Guayanamantingo.
 #### En este fiable sitio web encontrarás toda clase de información acerca de los increibles hechos históricos que el gobierno no quiere que conozcas.
 #### Si algún suceso no aparece en nuestra biblioteca es que no es lo bastante magestuoso para contarlo.
 
