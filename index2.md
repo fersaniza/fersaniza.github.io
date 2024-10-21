@@ -3,7 +3,7 @@ title: La apasionante historia del cemento
 layout: home
 parent: Extraordinarios hechos históricos que te dejarán patidifuso
 ---
-# La espectacular, inimaginable, espasmódica, macanuda y exorbitante historia del cemento
+# **La espectacular, inimaginable, espasmódica, macanuda y exorbitante historia del cemento**
 
 ![](https://www.rubi.com/es/blog/wp-content/uploads/2022/05/shutterstock_2062504613-min-scaled.jpg)
 
