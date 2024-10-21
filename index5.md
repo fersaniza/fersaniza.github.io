@@ -1,3 +1,8 @@
+---
+title: Extraordinarios hechos históricos que te dejarán patidifuso
+layout: home
+---
+
 En el principio estaba Eru, el Único, que en Arda es llamado Ilúvatar; y
 primero hizo a los Ainur, los Sagrados, que eran vástagos de su pensamiento, y
 estuvieron con él antes que se hiciera alguna otra cosa. y les habló y les propuso
