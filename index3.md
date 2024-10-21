@@ -4,7 +4,7 @@ layout: home
 parent: Extraordinarios hechos históricos que te dejarán patidifuso
 ---
 
-# La impactante historia de Cybertron y la guerra civil de los Transformers
+# **La impactante historia de Cybertron y la guerra civil de los Transformers**
 
 ![](https://img.ecartelera.com/noticias/fotos/40000/40092/1.jpg)
 
