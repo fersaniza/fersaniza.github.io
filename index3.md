@@ -6,6 +6,8 @@ parent: Extraordinarios hechos históricos que te dejarán patidifuso
 
 # La impactante historia de Cybertron y la guerra civil de los Transformers
 
+![](https://img.ecartelera.com/noticias/fotos/40000/40092/1.jpg)
+
 Cybertron existía, desde su superficie completamente metálica al corazón, como un vasto mundo mecánico del tamaño de Saturno... Un mundo cuyos orígenes estaban perdidos en el pasado olvidado.
 
 Aunque la vida había evolucionado aquí, había crecido y se había adaptado de forma destacablemente bien a su entorno.
