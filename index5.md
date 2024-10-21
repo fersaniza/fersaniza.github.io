@@ -1,9 +1,15 @@
 ---
-title: Extraordinarios hechos históricos que te dejarán patidifuso
+title: Fragmento del Silmarillion
 layout: home
 ---
 
-En el principio estaba Eru, el Único, que en Arda es llamado Ilúvatar; y
+# Fragmento del Silmarillion
+
+![](https://static.wikia.nocookie.net/eldragonverde/images/5/50/Silmarils.jpg/revision/latest?cb=20130105234037&path-prefix=es)
+
+### Y ahora un fragmento del Silmarillion, solo porque sí
+
+"En el principio estaba Eru, el Único, que en Arda es llamado Ilúvatar; y
 primero hizo a los Ainur, los Sagrados, que eran vástagos de su pensamiento, y
 estuvieron con él antes que se hiciera alguna otra cosa. y les habló y les propuso
 temas de música; y cantaron ante él y él se sintió complacido. Pero por mucho
@@ -22,7 +28,7 @@ que hagáis, juntos y en armonía, una Gran Música. y como os he inflamado con 
 Llama Imperecedera, mostraréis vuestros poderes en el adorno de este tema
 mismo, cada cual con sus propios pensamientos y recursos, si así le place. Pero yo
 me sentaré y escucharé, y será de mi agradó que por medio de vosotros una gran
-belleza despierte en canción. 
+belleza despierte en canción."
 
 ----
 
