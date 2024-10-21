@@ -8,6 +8,8 @@ parent: Extraordinarios hechos históricos que te dejarán patidifuso
 
 ![](https://img.ecartelera.com/noticias/fotos/40000/40092/1.jpg)
 
+### Cybertron, el planeta mecánico
+
 Cybertron existía, desde su superficie completamente metálica al corazón, como un vasto mundo mecánico del tamaño de Saturno... Un mundo cuyos orígenes estaban perdidos en el pasado olvidado.
 
 Aunque la vida había evolucionado aquí, había crecido y se había adaptado de forma destacablemente bien a su entorno.
@@ -19,6 +21,8 @@ Los Autobots crearon un paraíso mecánico, un paisaje repleto de máquinas dond
 Pero cada paraíso tiene su serpiente y en este mundo era Megatron, comandante de aquellos autodenominados Decepticons.
 
 En Transformers G1 Megatron comenta que los Decepticons han vivido en paz con los Autobots durante eones, mientras reunían en secreto sus fuerzas y persiguiendo su propia tecnología. Ahora que ya la poseen pensaban golpear a aquellos que han traído la lacra de la paz y la abundancia a Cybertron.
+
+### La guerra civil
 
 En las semanas que siguieron, Decepticons de todas partes informaban en reuniones clandestinas para aprender la logística del inmimente choque, y sus papeles en el conflicto. La guerra se extendió hasta que fue un conflicto global. Las fuerzas liberadas fueron impactantes, inconcebibles. Y con cada ataque sobre el una fortaleza Autobot fue orquestada con la precisión de la que solo conseguirse mediante la maquinaria calibrada con mayor precisión.
 
@@ -36,7 +40,7 @@ Durante la guerra cybertroniana, las lunas del planeta fueron los únicos refugi
 
 Estas lunas constituyeron durante mucho tiempo el centro de operaciones de los Autobots y los Decepticons. Sin embargo fueron prácticamente exterminadas por el voraz apetito de Unicron, quien necesita de partículas de metal para obtener su energía, y, a no ser por la intervención de los Autobots, comandados por Rodimus Prime, sucesor en el liderazgo de los Autobots tras la muerte de Optimus Prime,  el planeta hubiera quedado totalmente destruido a manos del gigante devorador de planetas.
 
-Una vez destruido Unicron, su cabeza quedó atrapada dentro de la gravedad del planeta, orbitando como una nueva luna cybertroniana.
+Una vez destuido Unicron, su cabeza quedó atrapada dentro de la gravedad del planeta, orbitando como una luna cybertroniana.
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
