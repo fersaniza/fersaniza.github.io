@@ -5,8 +5,6 @@ layout: home
 
 # Fragmento del Silmarillion
 
-![](https://static.wikia.nocookie.net/eldragonverde/images/5/50/Silmarils.jpg/revision/latest?cb=20130105234037&path-prefix=es)
-
 ### Y ahora un fragmento del Silmarillion, solo porque sí
 
 "En el principio estaba Eru, el Único, que en Arda es llamado Ilúvatar; y
